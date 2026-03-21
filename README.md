@@ -12,11 +12,14 @@ gcc -o loop.c -o loop
 
 ```bash
 gcc arr.c -o arr
+```
 
 ## Run
 
 ```bash
+
 ./main
+
 ```
 ## Screenshot
 ![Screenshot](screenshot.png)
